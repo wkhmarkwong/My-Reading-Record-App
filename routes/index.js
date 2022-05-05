@@ -6,5 +6,3 @@ router.get("/", (req, res) => {
 });
 
 module.exports = router;
-
-//this is new line
